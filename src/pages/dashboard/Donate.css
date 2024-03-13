@@ -1,0 +1,12 @@
+.DOnate {
+    /* overflow: scroll; */
+    width: 100%;
+    height: 100vh;
+    font-size: xx-large;
+    background-color: rgb(222, 94, 94);
+}
+
+p {
+    text-align: center;
+    /* margin-top: 30%; */
+}

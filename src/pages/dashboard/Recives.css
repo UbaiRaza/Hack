@@ -1,0 +1,10 @@
+.Recives{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+text-align: center;
+    font-size: 8rem;
+    background-color: rgb(222, 94, 94);}
+    
